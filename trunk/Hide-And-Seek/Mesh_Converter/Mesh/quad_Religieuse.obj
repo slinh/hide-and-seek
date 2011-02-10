@@ -1,0 +1,16 @@
+# Blender3D v249 OBJ File: niveauExportCasier.blend
+# www.blender3d.org
+mtllib quad_Religieuse.mtl
+v 0.035718 -0.000684 -0.039401
+v 0.035718 -0.000684 0.039998
+v -0.026917 -0.000684 0.039998
+v -0.026917 -0.000684 -0.039401
+vt 0.000000 0.000000
+vt 0.999378 0.000000
+vt 0.999378 1.000000
+vt 0.000000 0.999997
+vn 0.000000 1.000000 -0.000000
+usemtl None_photo_religieuse2_200
+s off
+f 1/1/1 4/2/1 3/3/1
+f 1/1/1 3/3/1 2/4/1
