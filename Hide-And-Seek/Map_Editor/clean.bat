@@ -1,0 +1,2 @@
+qmake -project ../Hide-And-Seek_final/Alloc.cpp ../Hide-And-Seek_final/fast_atof.cpp ../Hide-And-Seek_final/ReadFile.cpp ../Hide-And-Seek_final/WriteFile.cpp ../Map_Converter/Converter.cpp ../Hide-And-Seek_final/MeshBuffer.cpp ../Hide-And-Seek_final/StaticMeshOBJ.cpp ../Hide-And-Seek_final/Common.cpp ../Hide-And-Seek_final/Globals.cpp ../Hide-And-Seek_final/Logger.cpp ../Hide-And-Seek_final/Map.cpp ../Hide-And-Seek_final/MeshResource.cpp
+nmake clean

@@ -1,0 +1,14 @@
+3D:
+- Utilisation des Gfx et mise en place de l'architecture : difficulté 4/5 - priorité 3/5
+- Portage PC du moteur : difficulté 5/5 - priorité 4/5
+- Création et intégration des classes TAnimation pour les modèles animés : difficulté 2/5 - priorité 2/5
+- Création d'une factory pour créer les personnages : difficulté 2/5 - priorité 2/5
+- Créer un TCharacterMeshManager pour gérer les mesh 3D des modèles animé des personnages : difficulté 2/5 - priorité 2/5
+
+2D:
+- Fixer le bug d'affichage du menu lors du retour depuis le jeu : difficulté 3/5 - priorité 5/5
+
+DIVERS:
+- Faire les allocators pour les array : difficulté 2/5 - priorité 2/5
+- Redéfinir les macros GETTER/SETTER et remplacer dans le code afin d'utiliser Le nom de la variable come getter/setter au lieu de Get+nom ou Set+nom : difficulté 1/5 - priorité 1/5
+- Mettre en place un système de sauvegarde : diffculté 3/5 - priorité 2/5
